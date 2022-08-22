@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebPieniazek, Junior ;)
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C# WPF
-- 💞️ I’m looking to collaborate on C# as Junior in Wroclaw.
+- 🌱 I’m currently learning C# ASP .NET
+- 💞️ Junior C# programmer in the Green Source Engineering
 - 📫 How to reach me - seb.pieniazek@gmail.com
 
 <!---
