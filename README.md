@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebPieniazek, Junior ;)
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C# ASP .NET
+- 🌱 I’m currently learning .Net MAUI
 - 💞️ Junior C# programmer in the Green Source Engineering
 - 📫 How to reach me - seb.pieniazek@gmail.com
 
